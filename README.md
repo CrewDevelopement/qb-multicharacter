@@ -12,4 +12,4 @@ https://streamable.com/k7mrqt
 # Dependicies
 qb-core - https://github.com/qbcore-framework/qb-core
 
-qb-spawn -
+qb-spawn - https://github.com/RapidzModzz/qb-spawn
